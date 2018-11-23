@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Our Class</string>
+
+    <string-array name="nama_siswa">
+        <item>Muhammad Rizandy Ar-Ridha</item>
+        <item>Lutfillah Mafazi</item>
+        <item>Reynaldi WIjaya</item>
+        <item>Muhammad Amien Faroek Rachman</item>
+        <item>Ziyat Aksani</item>
+        <item>Ziad Syarul Mubarak</item>
+        <item>Ammar Al-Ghifary</item>
+        <item>Fikriansyah Al Anshari</item>
+        <item>Saeful Dama Maulidin</item>
+        <item>Fikri Dzakwan</item>
+        <item>Daffa Azzaqihaq Soemarta</item>
+    </string-array>
+
+    <string-array name="detailSiswa">
+        <item>Sandy seorang siswa yang asli rpl b, sandy sering ke rplc untuk tidur dan main</item>
+        <item>Lutfillah atau aji seorang siswa yang berasal dari mutis dan kadang aji sering melawak</item>
+        <item>Reynaldi atau aldi. Siswa ini masuk ke daftar siswa pintar tetapi kadang aldi pelit atas ilmu</item>
+        <item>Faroek atau amien. nah siswa ini ga terlalu beda jauh ama aldi yang membedakan mereka berdua faroek itu pelit duit</item>
+        <item>Ziyat ato ucok sorang yang berasal dari mutis ucok ini spesial dari yang lain. Soalnya tanpa dia kelas ato asrama RPL C gabakal bersih</item>
+        <item>Ziad ato Kalomang siswa asal makassar ini teman main faroek. kalo agan ingin melihat rapper, Just Came to RPLC</item>
+        <item>Ganteng</item>
+        <item>Fikrian ato ian nah siswa ini salah satu siswa rajin dan paling active dikelas.</item>
+        <item>Wibu,gaje. itulah yang dapat di jelaskan tentsng fikri</item>
+        <item>Daffa pejuang cikarang siswa ini siswa yang sangat bahagia jika ada hal yang bersangkut dengan cikarang</item>
+    </string-array>
+
+</resources>
